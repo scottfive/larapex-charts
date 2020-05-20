@@ -1,4 +1,6 @@
-<?php namespace ArielMejiaDev\LarapexCharts;
+<?php 
+
+namespace ScottFive\LarapexCharts;
 
 use Illuminate\Support\ServiceProvider;
 
